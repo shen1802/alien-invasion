@@ -1,2 +1,2 @@
-# odin-recipes
-This is a recipe website based on the learning task in TOP
+# Alien Invasion
+Alien Invasion game build on Python
