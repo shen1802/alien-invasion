@@ -1,2 +1,2 @@
 # Alien Invasion
-Alien Invasion game build on Python
+Alien Invasion game built on Python
